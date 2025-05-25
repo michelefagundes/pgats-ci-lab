@@ -1,9 +1,5 @@
 name: 'Execução Automática'
 # regras de disparo (gatilhos/triggers)
-# gatilho de exec automatica = workflow_dispatch
-on:
-  workflow_dispatch:
-# trabalhos/tarefas dentro do pipeline = jobs
 
 # https://crontab.guru/
 # a - minuto
