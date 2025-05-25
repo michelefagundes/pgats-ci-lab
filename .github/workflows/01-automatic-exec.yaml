@@ -14,7 +14,7 @@ on:
 # rodar o e2e toda quarta-feira pela manhã
 on:
   schedule:
-    - cron: '0 10 * * 3'
+    - cron: '0 8 * * 3'
 
 jobs:
   e2e-tests:
